@@ -1,0 +1,1 @@
+A simple landing page for Odin Project to learn html, css and flexbox a little better.
