@@ -133,3 +133,33 @@ h2 {
     align-self: flex-end;
     margin-right: 400px;
 }
+
+.acontainer {
+    background-color: #F9FAF8;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 300px;
+}
+
+.action-container {
+    background-color: #3882F6;
+    border-radius: 5px;
+    padding: 20px 40px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 900px;
+}
+
+.action {
+    color: #F9FAF8;
+}
+
+.action-container button {
+    background-color: #3882F6;
+    color: #F9FAF8;
+    border-radius: 5px;
+    border: solid 2px #F9FAF8;
+    padding: 5px 20px;
+}
